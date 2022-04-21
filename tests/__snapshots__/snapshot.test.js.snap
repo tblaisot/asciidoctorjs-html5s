@@ -1,0 +1,4182 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`asciidoc/admonition.adoc > caution 1`] = `
+<section class="admonition-block caution"
+         role="doc-notice"
+>
+  <h6 class="block-title label-only">
+    <span class="title-label">
+      Caution:
+    </span>
+  </h6>
+  <p>
+    This is a caution.
+  </p>
+</section>
+`;
+
+exports[`asciidoc/admonition.adoc > caution-block 1`] = `
+<section class="admonition-block caution"
+         role="doc-notice"
+>
+  <h6 class="block-title label-only">
+    <span class="title-label">
+      Caution:
+    </span>
+  </h6>
+  <p>
+    This is a caution with complex content.
+  </p>
+  <div class="ulist">
+    <ul>
+      <li>
+        It contains a list.
+      </li>
+    </ul>
+  </div>
+</section>
+`;
+
+exports[`asciidoc/admonition.adoc > caution-with-id-and-role 1`] = `
+<section id="caution-1"
+         class="admonition-block caution red"
+         role="doc-notice"
+>
+  <h6 class="block-title label-only">
+    <span class="title-label">
+      Caution:
+    </span>
+  </h6>
+  <p>
+    This is a caution with id and role.
+  </p>
+</section>
+`;
+
+exports[`asciidoc/admonition.adoc > caution-with-title 1`] = `
+<section class="admonition-block caution"
+         role="doc-notice"
+>
+  <h6 class="block-title">
+    <span class="title-label">
+      Caution:
+    </span>
+    Title of caution
+  </h6>
+  <p>
+    This is a caution with title.
+  </p>
+</section>
+`;
+
+exports[`asciidoc/admonition.adoc > important 1`] = `
+<section class="admonition-block important"
+         role="doc-notice"
+>
+  <h6 class="block-title label-only">
+    <span class="title-label">
+      Important:
+    </span>
+  </h6>
+  <p>
+    This is an important notice.
+  </p>
+</section>
+`;
+
+exports[`asciidoc/admonition.adoc > important-block 1`] = `
+<section class="admonition-block important"
+         role="doc-notice"
+>
+  <h6 class="block-title label-only">
+    <span class="title-label">
+      Important:
+    </span>
+  </h6>
+  <p>
+    This is an important notice with complex content.
+  </p>
+  <div class="ulist">
+    <ul>
+      <li>
+        It contains a list.
+      </li>
+    </ul>
+  </div>
+</section>
+`;
+
+exports[`asciidoc/admonition.adoc > important-with-id-and-role 1`] = `
+<section id="important-1"
+         class="admonition-block important red"
+         role="doc-notice"
+>
+  <h6 class="block-title label-only">
+    <span class="title-label">
+      Important:
+    </span>
+  </h6>
+  <p>
+    This is an important notice with id and role.
+  </p>
+</section>
+`;
+
+exports[`asciidoc/admonition.adoc > important-with-title 1`] = `
+<section class="admonition-block important"
+         role="doc-notice"
+>
+  <h6 class="block-title">
+    <span class="title-label">
+      Important:
+    </span>
+    Title of important notice
+  </h6>
+  <p>
+    This is an important notice with title.
+  </p>
+</section>
+`;
+
+exports[`asciidoc/admonition.adoc > note 1`] = `
+<aside class="admonition-block note"
+       role="note"
+>
+  <h6 class="block-title label-only">
+    <span class="title-label">
+      Note:
+    </span>
+  </h6>
+  <p>
+    This is a note.
+  </p>
+</aside>
+`;
+
+exports[`asciidoc/admonition.adoc > note-block 1`] = `
+<aside class="admonition-block note"
+       role="note"
+>
+  <h6 class="block-title label-only">
+    <span class="title-label">
+      Note:
+    </span>
+  </h6>
+  <p>
+    This is a note with complex content.
+  </p>
+  <div class="ulist">
+    <ul>
+      <li>
+        It contains a list.
+      </li>
+      <li>
+        It contains a list.
+      </li>
+    </ul>
+  </div>
+</aside>
+`;
+
+exports[`asciidoc/admonition.adoc > note-with-id-and-role 1`] = `
+<aside id="note-1"
+       class="admonition-block note yellow"
+       role="note"
+>
+  <h6 class="block-title label-only">
+    <span class="title-label">
+      Note:
+    </span>
+  </h6>
+  <p>
+    This is a note with id and role.
+  </p>
+</aside>
+`;
+
+exports[`asciidoc/admonition.adoc > note-with-title 1`] = `
+<aside class="admonition-block note"
+       role="note"
+>
+  <h6 class="block-title">
+    <span class="title-label">
+      Note:
+    </span>
+    Title of note
+  </h6>
+  <p>
+    This is a note with title.
+  </p>
+</aside>
+`;
+
+exports[`asciidoc/admonition.adoc > tip 1`] = `
+<aside class="admonition-block tip"
+       role="doc-tip"
+>
+  <h6 class="block-title label-only">
+    <span class="title-label">
+      Tip:
+    </span>
+  </h6>
+  <p>
+    This is a tip.
+  </p>
+</aside>
+`;
+
+exports[`asciidoc/admonition.adoc > tip-block 1`] = `
+<aside class="admonition-block tip"
+       role="doc-tip"
+>
+  <h6 class="block-title label-only">
+    <span class="title-label">
+      Tip:
+    </span>
+  </h6>
+  <p>
+    This is a tip with complex content.
+  </p>
+  <div class="ulist">
+    <ul>
+      <li>
+        It contains a list.
+      </li>
+    </ul>
+  </div>
+</aside>
+`;
+
+exports[`asciidoc/admonition.adoc > tip-with-id-and-role 1`] = `
+<aside id="tip-1"
+       class="admonition-block tip blue"
+       role="doc-tip"
+>
+  <h6 class="block-title label-only">
+    <span class="title-label">
+      Tip:
+    </span>
+  </h6>
+  <p>
+    This is a tip with id and role.
+  </p>
+</aside>
+`;
+
+exports[`asciidoc/admonition.adoc > tip-with-title 1`] = `
+<aside class="admonition-block tip"
+       role="doc-tip"
+>
+  <h6 class="block-title">
+    <span class="title-label">
+      Tip:
+    </span>
+    Title of tip
+  </h6>
+  <p>
+    This is a tip with title.
+  </p>
+</aside>
+`;
+
+exports[`asciidoc/admonition.adoc > warning 1`] = `
+<section class="admonition-block warning"
+         role="doc-notice"
+>
+  <h6 class="block-title label-only">
+    <span class="title-label">
+      Warning:
+    </span>
+  </h6>
+  <p>
+    This is a warning.
+  </p>
+</section>
+`;
+
+exports[`asciidoc/admonition.adoc > warning-block 1`] = `
+<section class="admonition-block warning"
+         role="doc-notice"
+>
+  <h6 class="block-title label-only">
+    <span class="title-label">
+      Warning:
+    </span>
+  </h6>
+  <p>
+    This is a warning with complex content.
+  </p>
+  <div class="ulist">
+    <ul>
+      <li>
+        It contains a list.
+      </li>
+    </ul>
+  </div>
+</section>
+`;
+
+exports[`asciidoc/admonition.adoc > warning-with-id-and-role 1`] = `
+<section id="warning-1"
+         class="admonition-block warning red"
+         role="doc-notice"
+>
+  <h6 class="block-title label-only">
+    <span class="title-label">
+      Warning:
+    </span>
+  </h6>
+  <p>
+    This is a warning with id and role.
+  </p>
+</section>
+`;
+
+exports[`asciidoc/admonition.adoc > warning-with-title 1`] = `
+<section class="admonition-block warning"
+         role="doc-notice"
+>
+  <h6 class="block-title">
+    <span class="title-label">
+      Warning:
+    </span>
+    Title of warning
+  </h6>
+  <p>
+    This is a warning with title.
+  </p>
+</section>
+`;
+
+exports[`asciidoc/audio.adoc > basic 1`] = `
+<div class="audio-block">
+  <audio src="ocean_waves.mp3"
+         controls
+  >
+    Your browser does not support the audio tag.
+  </audio>
+</div>
+`;
+
+exports[`asciidoc/audio.adoc > with-all-options 1`] = `
+<div class="audio-block">
+  <audio src="ocean_waves.mp3"
+         autoplay
+         loop
+  >
+    Your browser does not support the audio tag.
+  </audio>
+</div>
+`;
+
+exports[`asciidoc/audio.adoc > with-id-and-role 1`] = `
+<div id="ocean"
+     class="audio-block wave"
+>
+  <audio src="ocean_waves.mp3"
+         controls
+  >
+    Your browser does not support the audio tag.
+  </audio>
+</div>
+`;
+
+exports[`asciidoc/audio.adoc > with-title 1`] = `
+<figure class="audio-block">
+  <audio src="ocean_waves.mp3"
+         controls
+  >
+    Your browser does not support the audio tag.
+  </audio>
+  <figcaption>
+    Waves!
+  </figcaption>
+</figure>
+`;
+
+exports[`asciidoc/dlist.adoc > basic 1`] = `
+<div class="dlist">
+  <dl>
+    <dt>
+      Asciidoctor
+    </dt>
+    <dd>
+      An implementation of the AsciiDoc processor in Ruby.
+    </dd>
+    <dt>
+      Asciidoc
+    </dt>
+    <dd>
+      A text document format for writing notes, documentation, articles, books,
+      ebooks, slideshows, web pages, man pages and blogs.
+    </dd>
+  </dl>
+</div>
+`;
+
+exports[`asciidoc/dlist.adoc > basic-block 1`] = `
+<div class="dlist">
+  <dl>
+    <dt>
+      About
+    </dt>
+    <dd>
+      <div class="ulist">
+        <ul>
+          <li>
+            An implementation of the AsciiDoc processor in Ruby.
+          </li>
+          <li>
+            Fast text processor and publishing toolchain.
+          </li>
+        </ul>
+      </div>
+    </dd>
+    <dt>
+      Authors
+    </dt>
+    <dd>
+      <p>
+        Asciidoctor is lead by Dan Allen and Sarah White and has received
+        contributions from many other individuals in Asciidoctor’s awesome
+        community.
+      </p>
+      <p>
+        AsciiDoc was started by Stuart Rackham.
+      </p>
+    </dd>
+  </dl>
+</div>
+`;
+
+exports[`asciidoc/dlist.adoc > basic-missing-description 1`] = `
+<div class="dlist">
+  <dl>
+    <dt>
+      Definition without a description
+    </dt>
+  </dl>
+</div>
+`;
+
+exports[`asciidoc/dlist.adoc > basic-with-id-and-role 1`] = `
+<div id="licenses"
+     class="dlist"
+>
+  <dl>
+    <dt>
+      License
+    </dt>
+    <dd>
+      MIT
+    </dd>
+  </dl>
+</div>
+`;
+
+exports[`asciidoc/dlist.adoc > basic-with-title 1`] = `
+<section class="dlist">
+  <h6 class="block-title">
+    Asciidoctor
+  </h6>
+  <dl>
+    <dt>
+      License
+    </dt>
+    <dd>
+      MIT
+    </dd>
+  </dl>
+</section>
+`;
+
+exports[`asciidoc/dlist.adoc > horizontal 1`] = `
+<div class="dlist horizontal">
+  <dl class="horizontal">
+    <dt>
+      Hard drive
+    </dt>
+    <dd>
+      Permanent storage for operating system and/or user files.
+    </dd>
+    <dt>
+      RAM
+    </dt>
+    <dd>
+      Temporarily stores information the CPU uses during operation.
+    </dd>
+  </dl>
+</div>
+`;
+
+exports[`asciidoc/dlist.adoc > horizontal-with-dimensions 1`] = `
+<div class="dlist horizontal">
+  <dl class="horizontal">
+    <dt>
+      Hard drive
+    </dt>
+    <dd>
+      Permanent storage for operating system and/or user files.
+    </dd>
+    <dt>
+      RAM
+    </dt>
+    <dd>
+      Temporarily stores information the CPU uses during operation.
+    </dd>
+  </dl>
+</div>
+`;
+
+exports[`asciidoc/dlist.adoc > horizontal-with-id-and-role 1`] = `
+<div id="computer"
+     class="dlist horizontal"
+>
+  <dl class="horizontal">
+    <dt>
+      Hard drive
+    </dt>
+    <dd>
+      Permanent storage for operating system and/or user files.
+    </dd>
+    <dt>
+      RAM
+    </dt>
+    <dd>
+      Temporarily stores information the CPU uses during operation.
+    </dd>
+  </dl>
+</div>
+`;
+
+exports[`asciidoc/dlist.adoc > horizontal-with-title 1`] = `
+<section class="dlist horizontal">
+  <h6 class="block-title">
+    Computer terminology for noobs
+  </h6>
+  <dl class="horizontal">
+    <dt>
+      Hard drive
+    </dt>
+    <dd>
+      Permanent storage for operating system and/or user files.
+    </dd>
+    <dt>
+      RAM
+    </dt>
+    <dd>
+      Temporarily stores information the CPU uses during operation.
+    </dd>
+  </dl>
+</section>
+`;
+
+exports[`asciidoc/dlist.adoc > mixed 1`] = `
+<div class="dlist">
+  <dl>
+    <dt>
+      Operating Systems
+    </dt>
+    <dd>
+      <div class="dlist">
+        <dl>
+          <dt>
+            Linux
+          </dt>
+          <dd>
+            <div class="olist arabic">
+              <ol class="arabic">
+                <li>
+                  <p>
+                    Fedora
+                  </p>
+                  <div class="ulist">
+                    <ul>
+                      <li>
+                        Desktop
+                      </li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <p>
+                    Ubuntu
+                  </p>
+                  <div class="ulist">
+                    <ul>
+                      <li>
+                        Desktop
+                      </li>
+                      <li>
+                        Server
+                      </li>
+                    </ul>
+                  </div>
+                </li>
+              </ol>
+            </div>
+          </dd>
+          <dt>
+            BSD
+          </dt>
+          <dd>
+            <div class="olist arabic">
+              <ol class="arabic">
+                <li>
+                  FreeBSD
+                </li>
+                <li>
+                  NetBSD
+                </li>
+              </ol>
+            </div>
+          </dd>
+        </dl>
+      </div>
+    </dd>
+    <dt>
+      Cloud Providers
+    </dt>
+    <dd>
+      <div class="dlist">
+        <dl>
+          <dt>
+            PaaS
+          </dt>
+          <dd>
+            <div class="olist arabic">
+              <ol class="arabic">
+                <li>
+                  OpenShift
+                </li>
+                <li>
+                  CloudBees
+                </li>
+              </ol>
+            </div>
+          </dd>
+          <dt>
+            IaaS
+          </dt>
+          <dd>
+            <div class="olist arabic">
+              <ol class="arabic">
+                <li>
+                  Amazon EC2
+                </li>
+                <li>
+                  Rackspace
+                </li>
+              </ol>
+            </div>
+          </dd>
+        </dl>
+      </div>
+    </dd>
+  </dl>
+</div>
+`;
+
+exports[`asciidoc/dlist.adoc > qanda 1`] = `
+<div class="dlist qanda"
+     role="doc-qna"
+>
+  <dl class="qanda">
+    <dt>
+      What is Asciidoctor?
+    </dt>
+    <dd>
+      An implementation of the AsciiDoc processor in Ruby.
+    </dd>
+    <dt>
+      What is the answer to the Ultimate Question?
+    </dt>
+    <dd>
+      42
+    </dd>
+  </dl>
+</div>
+`;
+
+exports[`asciidoc/dlist.adoc > qanda-block 1`] = `
+<div class="dlist qanda"
+     role="doc-qna"
+>
+  <dl class="qanda">
+    <dt>
+      What is Asciidoctor?
+    </dt>
+    <dd>
+      <div class="ulist">
+        <ul>
+          <li>
+            An implementation of the AsciiDoc processor in Ruby.
+          </li>
+          <li>
+            Fast text processor and publishing toolchain.
+          </li>
+        </ul>
+      </div>
+    </dd>
+    <dt>
+      Who is behind Asciidoctor?
+    </dt>
+    <dd>
+      <p>
+        Asciidoctor is lead by Dan Allen and Sarah White and has received
+        contributions from many other individuals in Asciidoctor’s awesome
+        community.
+      </p>
+      <p>
+        AsciiDoc was started by Stuart Rackham.
+      </p>
+    </dd>
+  </dl>
+</div>
+`;
+
+exports[`asciidoc/dlist.adoc > qanda-missing-answer 1`] = `
+<div class="dlist qanda"
+     role="doc-qna"
+>
+  <dl class="qanda">
+    <dt>
+      Who knows the answer?
+    </dt>
+  </dl>
+</div>
+`;
+
+exports[`asciidoc/dlist.adoc > qanda-with-id-and-role 1`] = `
+<div id="faq"
+     class="dlist qanda"
+     role="doc-qna"
+>
+  <dl class="qanda">
+    <dt>
+      What is the answer to the Ultimate Question?
+    </dt>
+    <dd>
+      42
+    </dd>
+  </dl>
+</div>
+`;
+
+exports[`asciidoc/dlist.adoc > qanda-with-title 1`] = `
+<section class="dlist qanda"
+         role="doc-qna"
+>
+  <h6 class="block-title">
+    The most important questions
+  </h6>
+  <dl class="qanda">
+    <dt>
+      What is the answer to the Ultimate Question?
+    </dt>
+    <dd>
+      42
+    </dd>
+  </dl>
+</section>
+`;
+
+exports[`asciidoc/embedded.adoc > footnotes 1`] = `
+<p>
+  The hail-and-rainbow protocol can be initiated at five levels: double,
+  tertiary, supernumerary, supermassive, and apocalyptic party.
+  <a id="_footnoteref_1"
+     href="#_footnote_1"
+     class="footnote-ref"
+     title="View footnote 1"
+     role="doc-noteref"
+  >
+    [1]
+  </a>
+  A bold statement.
+  <a id="_footnoteref_2"
+     href="#_footnote_2"
+     class="footnote-ref"
+     title="View footnote 2"
+     role="doc-noteref"
+  >
+    [2]
+  </a>
+</p>
+<p>
+  Another outrageous statement.
+  <a href="#_footnote_2"
+     class="footnote-ref"
+     title="View footnote 2"
+     role="doc-noteref"
+  >
+    [2]
+  </a>
+</p>
+<section class="footnotes"
+         aria-label="Footnotes"
+         role="doc-endnotes"
+>
+  <hr>
+  <ol class="footnotes">
+    <li id="_footnote_1"
+        class="footnote"
+        role="doc-endnote"
+    >
+      The double hail-and-rainbow level makes my toes tingle.
+      <a class="footnote-backref"
+         href="#_footnoteref_1"
+         role="doc-backlink"
+         title="Jump to the first occurrence in the text"
+      >
+        &#8617;
+      </a>
+    </li>
+    <li id="_footnote_2"
+        class="footnote"
+        role="doc-endnote"
+    >
+      Opinions are my own.
+      <a class="footnote-backref"
+         href="#_footnoteref_2"
+         role="doc-backlink"
+         title="Jump to the first occurrence in the text"
+      >
+        &#8617;
+      </a>
+    </li>
+  </ol>
+</section>
+`;
+
+exports[`asciidoc/embedded.adoc > title 1`] = `""`;
+
+exports[`asciidoc/embedded.adoc > toc 1`] = `
+<h1>
+  Document Title
+</h1>
+<nav id="toc"
+     class="toc"
+     role="doc-toc"
+>
+  <h2 id="toc-title">
+    Table of Contents
+  </h2>
+  <ol class="toc-list level-1">
+    <li>
+      <a href="#_cavern_glow">
+        Cavern Glow
+      </a>
+    </li>
+  </ol>
+</nav>
+<section class="doc-section level-1">
+  <h2 id="_cavern_glow">
+    Cavern Glow
+  </h2>
+</section>
+`;
+
+exports[`asciidoc/embedded.adoc > toc-title 1`] = `
+<h1>
+  Document Title
+</h1>
+<nav id="toc"
+     class="toc"
+     role="doc-toc"
+>
+  <h2 id="toc-title">
+    Table of Adventures
+  </h2>
+  <ol class="toc-list level-1">
+    <li>
+      <a href="#_cavern_glow">
+        Cavern Glow
+      </a>
+    </li>
+  </ol>
+</nav>
+<section class="doc-section level-1">
+  <h2 id="_cavern_glow">
+    Cavern Glow
+  </h2>
+</section>
+`;
+
+exports[`asciidoc/example.adoc > basic 1`] = `
+<div class="example-block">
+  <div class="example">
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+    </p>
+  </div>
+</div>
+`;
+
+exports[`asciidoc/example.adoc > with-id-and-role 1`] = `
+<div id="lorem"
+     class="example-block ipsum"
+>
+  <div class="example">
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+    </p>
+  </div>
+</div>
+`;
+
+exports[`asciidoc/example.adoc > with-title 1`] = `
+<figure class="example-block">
+  <figcaption>
+    Example 1. Sample document
+  </figcaption>
+  <div class="example">
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+    </p>
+    <p>
+      The document header is useful, but not required.
+    </p>
+  </div>
+</figure>
+`;
+
+exports[`asciidoc/floating_title.adoc > level1 1`] = `
+<h2 id="_discrete_title_level_1"
+    class="discrete"
+>
+  Discrete Title Level 1
+</h2>
+`;
+
+exports[`asciidoc/floating_title.adoc > level2 1`] = `
+<h3 id="_discrete_title_level_2"
+    class="discrete"
+>
+  Discrete Title Level 2
+</h3>
+`;
+
+exports[`asciidoc/floating_title.adoc > level3 1`] = `
+<h4 id="_discrete_title_level_3"
+    class="discrete"
+>
+  Discrete Title Level 3
+</h4>
+`;
+
+exports[`asciidoc/floating_title.adoc > level4 1`] = `
+<h5 id="_discrete_title_level_4"
+    class="discrete"
+>
+  Discrete Title Level 4
+</h5>
+`;
+
+exports[`asciidoc/floating_title.adoc > level5 1`] = `
+<h6 id="_discrete_title_level_5"
+    class="discrete"
+>
+  Discrete Title Level 5
+</h6>
+`;
+
+exports[`asciidoc/floating_title.adoc > with-custom-id 1`] = `
+<h2 id="flying"
+    class="discrete"
+>
+  Discrete Title Level 1
+</h2>
+`;
+
+exports[`asciidoc/floating_title.adoc > with-roles 1`] = `
+<h3 id="_discrete_title_level_2"
+    class="discrete flying circus"
+>
+  Discrete Title Level 2
+</h3>
+`;
+
+exports[`asciidoc/image.adoc > basic 1`] = `
+<div class="image-block">
+  <img src="sunset.jpg"
+       alt="sunset"
+  >
+</div>
+`;
+
+exports[`asciidoc/image.adoc > with-align 1`] = `
+<div class="image-block"
+     style="text-align: center"
+>
+  <img src="sunset.jpg"
+       alt="sunset"
+  >
+</div>
+`;
+
+exports[`asciidoc/image.adoc > with-alt-text 1`] = `
+<div class="image-block">
+  <img src="sunset.jpg"
+       alt="Shining sun"
+  >
+</div>
+`;
+
+exports[`asciidoc/image.adoc > with-dimensions 1`] = `
+<div class="image-block">
+  <img src="sunset.jpg"
+       alt="Shining sun"
+       width="300"
+       height="200"
+  >
+</div>
+`;
+
+exports[`asciidoc/image.adoc > with-float 1`] = `
+<div class="image-block"
+     style="float: right"
+>
+  <img src="sunset.jpg"
+       alt="sunset"
+  >
+</div>
+`;
+
+exports[`asciidoc/image.adoc > with-id 1`] = `
+<div id="img-sunset"
+     class="image-block"
+>
+  <img src="sunset.jpg"
+       alt="sunset"
+  >
+</div>
+`;
+
+exports[`asciidoc/image.adoc > with-link 1`] = `
+<div class="image-block">
+  <a class="image"
+     href="http://www.flickr.com/photos/javh/5448336655"
+  >
+    <img src="sunset.jpg"
+         alt="sunset"
+    >
+  </a>
+</div>
+`;
+
+exports[`asciidoc/image.adoc > with-roles 1`] = `
+<div class="image-block right text-center">
+  <img src="sunset.jpg"
+       alt="sunset"
+  >
+</div>
+`;
+
+exports[`asciidoc/image.adoc > with-title 1`] = `
+<figure class="image-block">
+  <img src="sunset.jpg"
+       alt="sunset"
+  >
+  <figcaption>
+    Figure 1. A mountain sunset
+  </figcaption>
+</figure>
+`;
+
+exports[`asciidoc/inline_anchor.adoc > bibref 1`] = `
+<div class="ulist bibliography">
+  <ul class="bibliography">
+    <li>
+      <a id="prag"
+         aria-hidden="true"
+      >
+      </a>
+      [prag] Andy Hunt &amp; Dave Thomas.
+      The Pragmatic Programmer
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`asciidoc/inline_anchor.adoc > bibref-with-text 1`] = `
+<div class="ulist bibliography">
+  <ul class="bibliography">
+    <li>
+      <a id="prag"
+         aria-hidden="true"
+      >
+      </a>
+      [1] Andy Hunt &amp; Dave Thomas. The
+      Pragmatic Programmer
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`asciidoc/inline_anchor.adoc > link 1`] = `
+<p>
+  <a class="bare"
+     href="http://www.asciidoctor.org"
+  >
+    http://www.asciidoctor.org
+  </a>
+</p>
+`;
+
+exports[`asciidoc/inline_anchor.adoc > link-with-role 1`] = `
+<p>
+  <a class="green"
+     href="http://discuss.asciidoctor.org/"
+  >
+    <strong>
+      mailing list
+    </strong>
+  </a>
+</p>
+`;
+
+exports[`asciidoc/inline_anchor.adoc > link-with-target-blank 1`] = `
+<p>
+  <a href="view-source:asciidoctor.org"
+     target="_blank"
+     rel="noopener"
+  >
+    Asciidoctor homepage
+  </a>
+</p>
+`;
+
+exports[`asciidoc/inline_anchor.adoc > link-with-text 1`] = `
+<p>
+  <a href="irc://irc.freenode.org/#asciidoctor">
+    Asciidoctor IRC channel
+  </a>
+</p>
+`;
+
+exports[`asciidoc/inline_anchor.adoc > ref 1`] = `
+<p>
+  <a id="bookmark-a"
+     aria-hidden="true"
+  >
+  </a>
+  Inline anchors make arbitrary
+  content referenceable.
+</p>
+`;
+
+exports[`asciidoc/inline_anchor.adoc > xref 1`] = `
+<p>
+  The section
+  <a href="#page-break">
+    [page-break]
+  </a>
+  describes how to add a page
+  break.
+</p>
+`;
+
+exports[`asciidoc/inline_anchor.adoc > xref-interdoc 1`] = `
+<p>
+  The section
+  <a href="manual.html#page-break">
+    manual.html
+  </a>
+  describes how to
+  add a page break.
+</p>
+`;
+
+exports[`asciidoc/inline_anchor.adoc > xref-reftext 1`] = `
+<p>
+  Refer to
+  <a href="#install">
+    Installation Procedure
+  </a>
+  .
+</p>
+<section class="doc-section level-1">
+  <h2 id="install">
+    Installation
+  </h2>
+</section>
+`;
+
+exports[`asciidoc/inline_anchor.adoc > xref-resolved-text 1`] = `
+<p>
+  Refer to
+  <a href="#_section_a">
+    [_section_a]
+  </a>
+  .
+</p>
+<section class="doc-section level-1">
+  <h2 id="_section_a">
+    Section A
+  </h2>
+</section>
+`;
+
+exports[`asciidoc/inline_anchor.adoc > xref-with-text 1`] = `
+<p>
+  The section
+  <a href="#page-break">
+    Page break
+  </a>
+  describes how to add a page
+  break.
+</p>
+`;
+
+exports[`asciidoc/inline_anchor.adoc > xref-xrefstyle 1`] = `
+<p>
+  Refer to
+  <a href="#install">
+    [install]
+  </a>
+  .
+</p>
+<section class="doc-section level-1">
+  <h2 id="install">
+    1. Installation
+  </h2>
+</section>
+`;
+
+exports[`asciidoc/inline_break.adoc > hardbreaks 1`] = `
+<p>
+  Ruby is red.
+  <br>
+  Java is black.
+</p>
+`;
+
+exports[`asciidoc/inline_break.adoc > plus-sign 1`] = `
+<p>
+  Rubies are red,
+  <br>
+  Topazes are blue.
+</p>
+`;
+
+exports[`asciidoc/inline_button.adoc > basic 1`] = `
+<p>
+  <kbd class="button">
+    <samp>
+      OK
+    </samp>
+  </kbd>
+</p>
+`;
+
+exports[`asciidoc/inline_callout.adoc > basic 1`] = `
+<div class="listing-block">
+  <pre class="highlightjs-ext highlight">
+    <code>
+      "Hello world!"
+      <b class="conum"
+         data-value="1"
+      >
+        1
+      </b>
+    </code>
+  </pre>
+</div>
+`;
+
+exports[`asciidoc/inline_footnote.adoc > basic 1`] = `
+<p>
+  Apocalyptic party.
+  <a id="_footnoteref_1"
+     href="#_footnote_1"
+     class="footnote-ref"
+     title="View footnote 1"
+     role="doc-noteref"
+  >
+    [1]
+  </a>
+</p>
+<section class="footnotes"
+         aria-label="Footnotes"
+         role="doc-endnotes"
+>
+  <hr>
+  <ol class="footnotes">
+    <li id="_footnote_1"
+        class="footnote"
+        role="doc-endnote"
+    >
+      The double hail-and-rainbow level makes my toes tingle.
+      <a class="footnote-backref"
+         href="#_footnoteref_1"
+         role="doc-backlink"
+         title="Jump to the first occurrence in the text"
+      >
+        &#8617;
+      </a>
+    </li>
+  </ol>
+</section>
+`;
+
+exports[`asciidoc/inline_footnote.adoc > xref 1`] = `
+<p>
+  A bold statement.
+  <a id="_footnoteref_1"
+     href="#_footnote_1"
+     class="footnote-ref"
+     title="View footnote 1"
+     role="doc-noteref"
+  >
+    [1]
+  </a>
+  Another outrageous statement.
+  <a href="#_footnote_1"
+     class="footnote-ref"
+     title="View footnote 1"
+     role="doc-noteref"
+  >
+    [1]
+  </a>
+</p>
+<section class="footnotes"
+         aria-label="Footnotes"
+         role="doc-endnotes"
+>
+  <hr>
+  <ol class="footnotes">
+    <li id="_footnote_1"
+        class="footnote"
+        role="doc-endnote"
+    >
+      Opinions are my own.
+      <a class="footnote-backref"
+         href="#_footnoteref_1"
+         role="doc-backlink"
+         title="Jump to the first occurrence in the text"
+      >
+        &#8617;
+      </a>
+    </li>
+  </ol>
+</section>
+`;
+
+exports[`asciidoc/inline_footnote.adoc > xref-unresolved 1`] = `
+<p>
+  A bold statement.
+  <a class="footnote-ref broken"
+     title="Unresolved footnote reference."
+  >
+    [foobar]
+  </a>
+</p>
+`;
+
+exports[`asciidoc/inline_image.adoc > icon 1`] = `
+<p>
+  <b class="icon">
+    [tags]
+  </b>
+</p>
+`;
+
+exports[`asciidoc/inline_image.adoc > icon-no-icons 1`] = `
+<p>
+  <b class="icon">
+    [tags]
+  </b>
+</p>
+`;
+
+exports[`asciidoc/inline_image.adoc > icon-with-dimensions 1`] = `
+<p>
+  <b class="icon">
+    [tags]
+  </b>
+</p>
+`;
+
+exports[`asciidoc/inline_image.adoc > icon-with-float 1`] = `
+<p>
+  <b class="icon">
+    [heart]
+  </b>
+</p>
+`;
+
+exports[`asciidoc/inline_image.adoc > icon-with-link 1`] = `
+<p>
+  <a class="image"
+     href="http://rubygems.org/downloads/asciidoctor-1.5.2.gem"
+  >
+    <b class="icon">
+      [download]
+    </b>
+  </a>
+</p>
+`;
+
+exports[`asciidoc/inline_image.adoc > icon-with-role 1`] = `
+<p>
+  <b class="icon blue">
+    [tags]
+  </b>
+</p>
+`;
+
+exports[`asciidoc/inline_image.adoc > icon-with-title 1`] = `
+<p>
+  <b class="icon"
+     title="I &lt;3 Asciidoctor"
+  >
+    [heart]
+  </b>
+</p>
+`;
+
+exports[`asciidoc/inline_image.adoc > image 1`] = `
+<p>
+  <img src="linux.svg"
+       alt="linux"
+  >
+</p>
+`;
+
+exports[`asciidoc/inline_image.adoc > image-with-alt-text 1`] = `
+<p>
+  <img src="linux.svg"
+       alt="Tux"
+  >
+</p>
+`;
+
+exports[`asciidoc/inline_image.adoc > image-with-dimensions 1`] = `
+<p>
+  <img src="linux.svg"
+       alt="Tux"
+       width="25"
+       height="35"
+  >
+</p>
+`;
+
+exports[`asciidoc/inline_image.adoc > image-with-float 1`] = `
+<p>
+  <img src="linux.svg"
+       alt="linux"
+       style="float: right"
+  >
+</p>
+`;
+
+exports[`asciidoc/inline_image.adoc > image-with-link 1`] = `
+<p>
+  <a class="image"
+     href="http://inkscape.org/doc/examples/tux.svg"
+  >
+    <img src="linux.svg"
+         alt="linux"
+    >
+  </a>
+</p>
+`;
+
+exports[`asciidoc/inline_image.adoc > image-with-role 1`] = `
+<p>
+  <img src="linux.svg"
+       alt="linux"
+       class="black"
+  >
+</p>
+`;
+
+exports[`asciidoc/inline_kbd.adoc > basic 1`] = `
+<p>
+  <kdb class="key">
+    F11
+  </kdb>
+</p>
+`;
+
+exports[`asciidoc/inline_kbd.adoc > keyseq 1`] = `
+<p>
+  <kdb class="keyseq">
+    ,,
+  </kdb>
+</p>
+`;
+
+exports[`asciidoc/inline_menu.adoc > menu 1`] = `
+<p>
+  <kbd class="menu">
+    <samp>
+      File
+    </samp>
+  </kbd>
+</p>
+`;
+
+exports[`asciidoc/inline_menu.adoc > menuitem 1`] = `
+<p>
+  <kbd class="menuseq">
+    <kbd class="menu">
+      <samp>
+        File
+      </samp>
+      &#160;
+      <span class="caret">
+        &#8250;
+      </span>
+      &#32;
+      <kbd class="menu">
+        <samp>
+          Save
+        </samp>
+      </kbd>
+    </kbd>
+  </kbd>
+</p>
+`;
+
+exports[`asciidoc/inline_menu.adoc > submenu 1`] = `
+<p>
+  <kbd class="menuseq">
+    <kbd class="menu">
+      <samp>
+        View
+      </samp>
+      &#160;
+      <span class="caret">
+        &#8250;
+      </span>
+      &#32;
+      <kbd class="menu">
+        <samp>
+          Zoom
+        </samp>
+      </kbd>
+      &#160;
+      <span class="caret">
+        &#8250;
+      </span>
+      &#32;
+      <kbd class="menu">
+        <samp>
+          Reset
+        </samp>
+      </kbd>
+    </kbd>
+  </kbd>
+</p>
+`;
+
+exports[`asciidoc/inline_quoted.adoc > asciimath 1`] = `
+<p>
+  <span class="math"
+        data-lang="asciimath"
+  >
+    \\$sqrt(4) = 2\\$
+  </span>
+</p>
+`;
+
+exports[`asciidoc/inline_quoted.adoc > basic 1`] = `
+<p>
+  <span class="why">
+    chunky bacon
+  </span>
+</p>
+`;
+
+exports[`asciidoc/inline_quoted.adoc > double 1`] = `
+<p>
+  &#x201c;chunky bacon&#x201d;
+</p>
+`;
+
+exports[`asciidoc/inline_quoted.adoc > double-with-role 1`] = `
+<p>
+  <span class="why">
+    &#x201c;chunky bacon&#x201d;
+  </span>
+</p>
+`;
+
+exports[`asciidoc/inline_quoted.adoc > emphasis 1`] = `
+<p>
+  <em>
+    chunky bacon
+  </em>
+</p>
+`;
+
+exports[`asciidoc/inline_quoted.adoc > emphasis-with-role 1`] = `
+<p>
+  <em class="why">
+    chunky bacon
+  </em>
+</p>
+`;
+
+exports[`asciidoc/inline_quoted.adoc > latexmath 1`] = `
+<p>
+  <span class="math"
+        data-lang="tex"
+  >
+    \\(C = \\alpha + \\beta Y^{\\gamma} + \\epsilon\\)
+  </span>
+</p>
+`;
+
+exports[`asciidoc/inline_quoted.adoc > mark 1`] = `
+<p>
+  <mark>
+    chunky bacon
+  </mark>
+</p>
+`;
+
+exports[`asciidoc/inline_quoted.adoc > mixed-monospace-bold-italic 1`] = `
+<p>
+  <code>
+    <strong>
+      <em>
+        monospace bold italic phrase
+      </em>
+    </strong>
+  </code>
+  and le
+  <code>
+    <strong>
+      <em>
+        tt
+      </em>
+    </strong>
+  </code>
+  ers
+</p>
+`;
+
+exports[`asciidoc/inline_quoted.adoc > monospaced 1`] = `
+<p>
+  <code>
+    hello world!
+  </code>
+</p>
+`;
+
+exports[`asciidoc/inline_quoted.adoc > monospaced-with-role 1`] = `
+<p>
+  <code class="why">
+    hello world!
+  </code>
+</p>
+`;
+
+exports[`asciidoc/inline_quoted.adoc > single 1`] = `
+<p>
+  &#x2018;chunky bacon&#x2019;
+</p>
+`;
+
+exports[`asciidoc/inline_quoted.adoc > single-with-role 1`] = `
+<p>
+  <span class="why">
+    &#x2018;chunky bacon&#x2019;
+  </span>
+</p>
+`;
+
+exports[`asciidoc/inline_quoted.adoc > strong 1`] = `
+<p>
+  <strong>
+    chunky bacon
+  </strong>
+</p>
+`;
+
+exports[`asciidoc/inline_quoted.adoc > strong-with-role 1`] = `
+<p>
+  <strong class="why">
+    chunky bacon
+  </strong>
+</p>
+`;
+
+exports[`asciidoc/inline_quoted.adoc > subscript 1`] = `
+<p>
+  <sub>
+    sub
+  </sub>
+  chunky bacon
+</p>
+`;
+
+exports[`asciidoc/inline_quoted.adoc > subscript-with-role 1`] = `
+<p>
+  <sub class="why">
+    sub
+  </sub>
+  chunky bacon
+</p>
+`;
+
+exports[`asciidoc/inline_quoted.adoc > superscript 1`] = `
+<p>
+  <sup>
+    super
+  </sup>
+  chunky bacon
+</p>
+`;
+
+exports[`asciidoc/inline_quoted.adoc > superscript-with-role 1`] = `
+<p>
+  <sup class="why">
+    super
+  </sup>
+  chunky bacon
+</p>
+`;
+
+exports[`asciidoc/inline_quoted.adoc > with-id 1`] = `
+<p>
+  <em id="why">
+    chunky bacon
+  </em>
+</p>
+`;
+
+exports[`asciidoc/listing.adoc > basic 1`] = `
+<div class="listing-block">
+  <pre>
+    echo -n "Please enter your name: "
+read name
+echo "Hello, $name!"
+  </pre>
+</div>
+`;
+
+exports[`asciidoc/listing.adoc > basic-nowrap 1`] = `
+<div class="listing-block">
+  <pre class="nowrap">
+    ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  </pre>
+</div>
+`;
+
+exports[`asciidoc/listing.adoc > basic-with-id-and-role 1`] = `
+<div id="code"
+     class="listing-block example"
+>
+  <pre>
+    echo -n "Please enter your name: "
+read name
+echo "Hello, $name!"
+  </pre>
+</div>
+`;
+
+exports[`asciidoc/listing.adoc > basic-with-title 1`] = `
+<figure class="listing-block">
+  <figcaption>
+    Reading user input
+  </figcaption>
+  <pre>
+    echo -n "Please enter your name: "
+read name
+echo "Hello, $name!"
+  </pre>
+</figure>
+`;
+
+exports[`asciidoc/listing.adoc > source 1`] = `
+<div class="listing-block">
+  <pre class="highlightjs-ext highlight">
+    <code>
+      5.times do
+  print "Odelay!"
+end
+    </code>
+  </pre>
+</div>
+`;
+
+exports[`asciidoc/listing.adoc > source-nowrap 1`] = `
+<div class="listing-block">
+  <pre class="highlightjs-ext highlight nowrap">
+    <code class="language-java"
+          data-lang="java"
+    >
+      <span class="hljs-keyword">
+        public
+      </span>
+      <span class="hljs-keyword">
+        class
+      </span>
+      <span class="hljs-title class_">
+        ApplicationConfigurationProvider
+      </span>
+      <span class="hljs-keyword">
+        extends
+      </span>
+      <span class="hljs-title class_">
+        HttpConfigurationProvider
+      </span>
+      {
+      <span class="hljs-keyword">
+        public
+      </span>
+      Configuration
+      <span class="hljs-title function_">
+        getConfiguration
+      </span>
+      <span class="hljs-params">
+        (ServletContext context)
+      </span>
+      {
+      <span class="hljs-keyword">
+        return
+      </span>
+      ConfigurationBuilder.begin()
+               .addRule()
+               .when(Direction.isInbound().and(Path.matches(
+      <span class="hljs-string">
+        &quot;/{path}&quot;
+      </span>
+      )))
+               .perform(Log.message(Level.INFO,
+      <span class="hljs-string">
+        &quot;Client requested path: {path}&quot;
+      </span>
+      ))
+               .where(
+      <span class="hljs-string">
+        &quot;path&quot;
+      </span>
+      ).matches(
+      <span class="hljs-string">
+        &quot;.*&quot;
+      </span>
+      );
+   }
+}
+    </code>
+  </pre>
+</div>
+`;
+
+exports[`asciidoc/listing.adoc > source-with-language 1`] = `
+<div class="listing-block">
+  <pre class="highlightjs-ext highlight">
+    <code class="language-ruby"
+          data-lang="ruby"
+    >
+      <span class="hljs-number">
+        5
+      </span>
+      .times
+      <span class="hljs-keyword">
+        do
+      </span>
+      print
+      <span class="hljs-string">
+        &quot;Odelay!&quot;
+      </span>
+      <span class="hljs-keyword">
+        end
+      </span>
+    </code>
+  </pre>
+</div>
+`;
+
+exports[`asciidoc/listing.adoc > source-with-title 1`] = `
+<figure class="listing-block">
+  <figcaption>
+    Odelay!
+  </figcaption>
+  <pre class="highlightjs-ext highlight">
+    <code>
+      5.times do
+  print "Odelay!"
+end
+    </code>
+  </pre>
+</figure>
+`;
+
+exports[`asciidoc/literal.adoc > basic 1`] = `
+<div class="literal-block">
+  <pre>
+    error: The requested operation returned error: 1954 Forbidden search for defensive operations manual
+absolutely fatal: operation initiation lost in the dodecahedron of doom
+would you like to die again? y/n
+  </pre>
+</div>
+`;
+
+exports[`asciidoc/literal.adoc > nowrap 1`] = `
+<div class="literal-block">
+  <pre class="nowrap">
+    error: The requested operation returned error: 1954 Forbidden search for defensive operations manual
+absolutely fatal: operation initiation lost in the dodecahedron of doom
+would you like to die again? y/n
+  </pre>
+</div>
+`;
+
+exports[`asciidoc/literal.adoc > with-id-and-role 1`] = `
+<div id="error"
+     class="literal-block fatal"
+>
+  <pre>
+    error: The requested operation returned error: 1954 Forbidden search for defensive operations manual
+absolutely fatal: operation initiation lost in the dodecahedron of doom
+would you like to die again? y/n
+  </pre>
+</div>
+`;
+
+exports[`asciidoc/literal.adoc > with-title 1`] = `
+<section class="literal-block">
+  <h6 class="block-title">
+    Die again?
+  </h6>
+  <pre>
+    error: The requested operation returned error: 1954 Forbidden search for defensive operations manual
+absolutely fatal: operation initiation lost in the dodecahedron of doom
+would you like to die again? y/n
+  </pre>
+</section>
+`;
+
+exports[`asciidoc/olist.adoc > basic 1`] = `
+<div class="olist arabic">
+  <ol class="arabic">
+    <li>
+      Step 1
+    </li>
+    <li>
+      Step 2
+    </li>
+    <li>
+      Step 3
+    </li>
+  </ol>
+</div>
+`;
+
+exports[`asciidoc/olist.adoc > complex-content 1`] = `
+<div class="olist arabic">
+  <ol class="arabic">
+    <li>
+      <p>
+        Every list item has at least one paragraph of content, which may be
+        wrapped, even using a hanging indent.
+      </p>
+      <p>
+        Additional paragraphs or blocks are adjoined by putting a list
+        continuation on a line adjacent to both blocks.
+      </p>
+      <div class="dlist">
+        <dl>
+          <dt>
+            list continuation
+          </dt>
+          <dd>
+            a plus sign (
+            <code>
+              &#43;
+            </code>
+            ) on a line by itself
+          </dd>
+        </dl>
+      </div>
+    </li>
+    <li>
+      <p>
+        A literal paragraph does not require a list continuation.
+      </p>
+      <div class="literal-block">
+        <pre>
+          $ gem install asciidoctor
+        </pre>
+      </div>
+    </li>
+  </ol>
+</div>
+`;
+
+exports[`asciidoc/olist.adoc > max-nesting 1`] = `
+<div class="olist arabic">
+  <ol class="arabic">
+    <li>
+      <p>
+        level 1
+      </p>
+      <div class="olist loweralpha">
+        <ol class="loweralpha">
+          <li>
+            <p>
+              level 2
+            </p>
+            <div class="olist lowerroman">
+              <ol class="lowerroman">
+                <li>
+                  <p>
+                    level 3
+                  </p>
+                  <div class="olist upperalpha">
+                    <ol class="upperalpha">
+                      <li>
+                        <p>
+                          level 4
+                        </p>
+                        <div class="olist upperroman">
+                          <ol class="upperroman">
+                            <li>
+                              level 5
+                            </li>
+                          </ol>
+                        </div>
+                      </li>
+                    </ol>
+                  </div>
+                </li>
+              </ol>
+            </div>
+          </li>
+          <li>
+            level 2
+          </li>
+        </ol>
+      </div>
+    </li>
+  </ol>
+</div>
+`;
+
+exports[`asciidoc/olist.adoc > with-id-and-role 1`] = `
+<div id="steps"
+     class="olist arabic green"
+>
+  <ol class="arabic">
+    <li>
+      Step 1
+    </li>
+    <li>
+      Step 2
+    </li>
+    <li>
+      Step 3
+    </li>
+  </ol>
+</div>
+`;
+
+exports[`asciidoc/olist.adoc > with-numeration-styles 1`] = `
+<div class="olist decimal">
+  <ol class="decimal">
+    <li>
+      <p>
+        level 1
+      </p>
+      <div class="olist upperalpha">
+        <ol class="upperalpha">
+          <li>
+            <p>
+              level 2
+            </p>
+            <div class="olist loweralpha">
+              <ol class="loweralpha">
+                <li>
+                  <p>
+                    level 3
+                  </p>
+                  <div class="olist lowerroman">
+                    <ol class="lowerroman">
+                      <li>
+                        <p>
+                          level 4
+                        </p>
+                        <div class="olist lowergreek">
+                          <ol class="lowergreek">
+                            <li>
+                              level 5
+                            </li>
+                          </ol>
+                        </div>
+                      </li>
+                    </ol>
+                  </div>
+                </li>
+              </ol>
+            </div>
+          </li>
+        </ol>
+      </div>
+    </li>
+  </ol>
+</div>
+`;
+
+exports[`asciidoc/olist.adoc > with-reversed 1`] = `
+<div class="olist arabic">
+  <ol class="arabic"
+      reversed
+  >
+    <li>
+      Step 1
+    </li>
+    <li>
+      Step 2
+    </li>
+    <li>
+      Step 3
+    </li>
+  </ol>
+</div>
+`;
+
+exports[`asciidoc/olist.adoc > with-start 1`] = `
+<div class="olist arabic">
+  <ol class="arabic"
+      start="6"
+  >
+    <li>
+      Step 1
+    </li>
+    <li>
+      Step 2
+    </li>
+    <li>
+      Step 3
+    </li>
+  </ol>
+</div>
+`;
+
+exports[`asciidoc/olist.adoc > with-title 1`] = `
+<section class="olist arabic">
+  <h6 class="block-title">
+    Steps
+  </h6>
+  <ol class="arabic">
+    <li>
+      Step 1
+    </li>
+    <li>
+      Step 2
+    </li>
+    <li>
+      Step 3
+    </li>
+  </ol>
+</section>
+`;
+
+exports[`asciidoc/open.adoc > abstract 1`] = `
+<div class="quote-block abstract">
+  <blockquote>
+    <p>
+      This is an abstract quote block.
+    </p>
+  </blockquote>
+</div>
+`;
+
+exports[`asciidoc/open.adoc > abstract-with-id-and-role 1`] = `
+<div id="open"
+     class="quote-block abstract"
+>
+  <blockquote>
+    <p>
+      This is an abstract quote block. Who knows what it really means?
+    </p>
+  </blockquote>
+</div>
+`;
+
+exports[`asciidoc/open.adoc > abstract-with-title 1`] = `
+<section class="quote-block abstract">
+  <h6 class="block-title">
+    Abstract title is abstract
+  </h6>
+  <blockquote>
+    <p>
+      This is an abstract quote block. Who knows what it really means?
+    </p>
+  </blockquote>
+</section>
+`;
+
+exports[`asciidoc/open.adoc > basic 1`] = `
+<div class="open-block">
+  <div class="content">
+    <p>
+      An open block can be an anonymous container, or it can masquerade as any
+      other block.
+    </p>
+  </div>
+</div>
+`;
+
+exports[`asciidoc/open.adoc > basic-with-id-and-role 1`] = `
+<div id="open"
+     class="open-block"
+>
+  <div class="content">
+    <p>
+      An open block can be an anonymous container, or it can masquerade as any
+      other block.
+    </p>
+  </div>
+</div>
+`;
+
+exports[`asciidoc/open.adoc > basic-with-title 1`] = `
+<section class="open-block">
+  <h6 class="block-title">
+    An open block
+  </h6>
+  <div class="content">
+    <p>
+      An open block can be an anonymous container, or it can masquerade as any
+      other block.
+    </p>
+  </div>
+</section>
+`;
+
+exports[`asciidoc/outline.adoc > basic 1`] = `
+<h1>
+  Document Title
+</h1>
+<nav id="toc"
+     class="toc"
+     role="doc-toc"
+>
+  <h2 id="toc-title">
+    Table of Contents
+  </h2>
+  <ol class="toc-list level-1">
+    <li>
+      <a href="#_section_1">
+        Section 1
+      </a>
+    </li>
+    <li>
+      <a href="#_section_2">
+        Section 2
+      </a>
+      <ol class="toc-list level-2">
+        <li>
+          <a href="#_section_2_1">
+            Section 2.1
+          </a>
+        </li>
+      </ol>
+    </li>
+    <li>
+      <a href="#_section_3">
+        Section 3
+      </a>
+    </li>
+  </ol>
+</nav>
+<section class="doc-section level-1">
+  <h2 id="_section_1">
+    Section 1
+  </h2>
+</section>
+<section class="doc-section level-1">
+  <h2 id="_section_2">
+    Section 2
+  </h2>
+  <section class="doc-section level-2">
+    <h3 id="_section_2_1">
+      Section 2.1
+    </h3>
+    <section class="doc-section level-3">
+      <h4 id="_section_2_1_1">
+        Section 2.1.1
+      </h4>
+    </section>
+  </section>
+</section>
+<section class="doc-section level-1">
+  <h2 id="_section_3">
+    Section 3
+  </h2>
+</section>
+`;
+
+exports[`asciidoc/outline.adoc > numbered 1`] = `
+<h1>
+  Document Title
+</h1>
+<nav id="toc"
+     class="toc"
+     role="doc-toc"
+>
+  <h2 id="toc-title">
+    Table of Contents
+  </h2>
+  <ol class="toc-list level-1">
+    <li>
+      <a href="#_section_1">
+        1. Section 1
+      </a>
+    </li>
+    <li>
+      <a href="#_unnumbered_section">
+        Unnumbered Section
+      </a>
+    </li>
+    <li>
+      <a href="#_section_2">
+        2. Section 2
+      </a>
+      <ol class="toc-list level-2">
+        <li>
+          <a href="#_section_2_1">
+            2.1. Section 2.1
+          </a>
+        </li>
+      </ol>
+    </li>
+    <li>
+      <a href="#_section_3">
+        3. Section 3
+      </a>
+    </li>
+  </ol>
+</nav>
+<section class="doc-section level-1">
+  <h2 id="_section_1">
+    1. Section 1
+  </h2>
+</section>
+<section class="doc-section level-1">
+  <h2 id="_unnumbered_section">
+    Unnumbered Section
+  </h2>
+</section>
+<section class="doc-section level-1">
+  <h2 id="_section_2">
+    2. Section 2
+  </h2>
+  <section class="doc-section level-2">
+    <h3 id="_section_2_1">
+      2.1. Section 2.1
+    </h3>
+  </section>
+</section>
+<section class="doc-section level-1">
+  <h2 id="_section_3">
+    3. Section 3
+  </h2>
+</section>
+`;
+
+exports[`asciidoc/outline.adoc > sectnumlevels 1`] = `
+<h1>
+  Document Title
+</h1>
+<nav id="toc"
+     class="toc"
+     role="doc-toc"
+>
+  <h2 id="toc-title">
+    Table of Contents
+  </h2>
+  <ol class="toc-list level-1">
+    <li>
+      <a href="#_section_1">
+        1. Section 1
+      </a>
+      <ol class="toc-list level-2">
+        <li>
+          <a href="#_section_1_1">
+            Section 1.1
+          </a>
+          <ol class="toc-list level-3">
+            <li>
+              <a href="#_section_1_1_1">
+                Section 1.1.1
+              </a>
+            </li>
+          </ol>
+        </li>
+      </ol>
+    </li>
+    <li>
+      <a href="#_section_2">
+        2. Section 2
+      </a>
+    </li>
+  </ol>
+</nav>
+<section class="doc-section level-1">
+  <h2 id="_section_1">
+    1. Section 1
+  </h2>
+  <section class="doc-section level-2">
+    <h3 id="_section_1_1">
+      Section 1.1
+    </h3>
+    <section class="doc-section level-3">
+      <h4 id="_section_1_1_1">
+        Section 1.1.1
+      </h4>
+    </section>
+  </section>
+</section>
+<section class="doc-section level-1">
+  <h2 id="_section_2">
+    2. Section 2
+  </h2>
+</section>
+`;
+
+exports[`asciidoc/outline.adoc > toclevels 1`] = `
+<h1>
+  Document Title
+</h1>
+<nav id="toc"
+     class="toc"
+     role="doc-toc"
+>
+  <h2 id="toc-title">
+    Table of Contents
+  </h2>
+  <ol class="toc-list level-1">
+    <li>
+      <a href="#_section_1">
+        Section 1
+      </a>
+    </li>
+    <li>
+      <a href="#_section_2">
+        Section 2
+      </a>
+    </li>
+  </ol>
+</nav>
+<section class="doc-section level-1">
+  <h2 id="_section_1">
+    Section 1
+  </h2>
+  <section class="doc-section level-2">
+    <h3 id="_section_1_1">
+      Section 1.1
+    </h3>
+    <section class="doc-section level-3">
+      <h4 id="_section_1_1_1">
+        Section 1.1.1
+      </h4>
+    </section>
+  </section>
+</section>
+<section class="doc-section level-1">
+  <h2 id="_section_2">
+    Section 2
+  </h2>
+</section>
+`;
+
+exports[`asciidoc/page_break.adoc > basic 1`] = `
+<p>
+  Text on the first page
+</p>
+<div role="doc-pagebreak"
+     style="page-break-after: always"
+>
+</div>
+<p>
+  was breaked!
+</p>
+`;
+
+exports[`asciidoc/paragraph.adoc > basic 1`] = `
+<p>
+  Paragraphs don&#8217;t require any special markup in AsciiDoc. A paragraph is
+  just one or more lines of consecutive text.
+</p>
+<p>
+  To begin a new paragraph, separate it by at least one blank line.
+</p>
+`;
+
+exports[`asciidoc/paragraph.adoc > with-id-and-role 1`] = `
+<p id="para-1"
+   class="red"
+>
+  Paragraphs don&#8217;t require any special markup in AsciiDoc. A paragraph is
+  just one or more lines of consecutive text.
+</p>
+`;
+
+exports[`asciidoc/paragraph.adoc > with-title 1`] = `
+<section class="paragraph">
+  <h6 class="block-title">
+    Paragraphs
+  </h6>
+  <p>
+    Paragraphs don&#8217;t require any special markup in AsciiDoc. A paragraph
+    is just one or more lines of consecutive text.
+  </p>
+</section>
+<p>
+  To begin a new paragraph, separate it by at least one blank line.
+</p>
+`;
+
+exports[`asciidoc/pass.adoc > basic 1`] = `
+"<p>Allons-y!</p>
+image:tiger.png[]
+"
+`;
+
+exports[`asciidoc/preamble.adoc > basic 1`] = `
+<h1>
+  The Dangerous and Thrilling Documentation Chronicles
+</h1>
+<section id="preamble"
+         aria-label="Preamble"
+>
+  <p>
+    This journey begins on a bleary Monday morning. Our intrepid team is in
+    desperate need of double shot mochas, but the milk expired eight days ago.
+  </p>
+</section>
+<section class="doc-section level-1">
+  <h2 id="_cavern_glow">
+    Cavern Glow
+  </h2>
+  <p>
+    The river rages through the cavern, rattling its content.
+  </p>
+</section>
+`;
+
+exports[`asciidoc/preamble.adoc > toc-placement-preamble 1`] = `
+<h1>
+  The Dangerous and Thrilling Documentation Chronicles
+</h1>
+<section id="preamble"
+         aria-label="Preamble"
+>
+  <p>
+    This journey begins on a bleary Monday morning. Our intrepid team is in
+    desperate need of double shot mochas, but the milk expired eight days ago.
+  </p>
+</section>
+<section class="doc-section level-1">
+  <h2 id="_cavern_glow">
+    Cavern Glow
+  </h2>
+  <p>
+    The river rages through the cavern, rattling its content.
+  </p>
+</section>
+`;
+
+exports[`asciidoc/quote.adoc > basic 1`] = `
+<div class="quote-block">
+  <blockquote>
+    <p>
+      Four score and seven years ago our fathers brought forth on this continent
+      a new nation&#8230;&#8203;
+    </p>
+  </blockquote>
+</div>
+`;
+
+exports[`asciidoc/quote.adoc > block 1`] = `
+<div class="quote-block">
+  <blockquote>
+    <p>
+      Dennis: Come and see the violence inherent in the system. Help! Help!
+      I&#8217;m being repressed!
+    </p>
+    <p>
+      King Arthur: Bloody peasant!
+    </p>
+    <p>
+      Dennis: Oh, what a giveaway! Did you hear that? Did you hear that, eh?
+      That&#8217;s what I&#8217;m on about! Did you see him repressing me? You
+      saw him, Didn&#8217;t you?
+    </p>
+  </blockquote>
+</div>
+`;
+
+exports[`asciidoc/quote.adoc > with-attribution 1`] = `
+<div class="quote-block">
+  <blockquote>
+    <p>
+      A person who never made a mistake never tried anything new.
+    </p>
+    <footer>
+      &#8212;
+      <cite>
+        Albert Einstein,
+      </cite>
+    </footer>
+  </blockquote>
+</div>
+`;
+
+exports[`asciidoc/quote.adoc > with-attribution-and-citetitle 1`] = `
+<div class="quote-block">
+  <blockquote>
+    <p>
+      Everybody remember where we parked.
+    </p>
+    <footer>
+      &#8212;
+      <cite>
+        Captain James T. Kirk, Star Trek IV: The Voyage Home
+      </cite>
+    </footer>
+  </blockquote>
+</div>
+`;
+
+exports[`asciidoc/quote.adoc > with-id-and-role 1`] = `
+<div id="parking"
+     class="quote-block startrek"
+>
+  <blockquote>
+    <p>
+      Everybody remember where we parked.
+    </p>
+  </blockquote>
+</div>
+`;
+
+exports[`asciidoc/quote.adoc > with-title 1`] = `
+<section class="quote-block">
+  <h6 class="block-title">
+    After landing the cloaked Klingon bird of prey in Golden Gate park:
+  </h6>
+  <blockquote>
+    <p>
+      Everybody remember where we parked.
+    </p>
+  </blockquote>
+</section>
+`;
+
+exports[`asciidoc/section.adoc > book-part-title 1`] = `
+<h1>
+  Document Title
+</h1>
+<section class="doc-section level-0">
+  <h1 id="_part_title">
+    Part Title
+  </h1>
+  <section class="doc-section level-1">
+    <h2 id="_section_level_1">
+      Section Level 1
+    </h2>
+  </section>
+</section>
+`;
+
+exports[`asciidoc/section.adoc > level1 1`] = `
+<section class="doc-section level-1">
+  <h2 id="_section_level_1">
+    Section Level 1
+  </h2>
+</section>
+`;
+
+exports[`asciidoc/section.adoc > level2 1`] = `
+<section class="doc-section level-2">
+  <h3 id="_section_level_2">
+    Section Level 2
+  </h3>
+</section>
+`;
+
+exports[`asciidoc/section.adoc > level3 1`] = `
+<section class="doc-section level-3">
+  <h4 id="_section_level_3">
+    Section Level 3
+  </h4>
+</section>
+`;
+
+exports[`asciidoc/section.adoc > level4 1`] = `
+<section class="doc-section level-4">
+  <h5 id="_section_level_4">
+    Section Level 4
+  </h5>
+</section>
+`;
+
+exports[`asciidoc/section.adoc > level5 1`] = `
+<section class="doc-section level-5">
+  <h6 id="_section_level_5">
+    Section Level 5
+  </h6>
+</section>
+`;
+
+exports[`asciidoc/section.adoc > max-nesting 1`] = `
+<section class="doc-section level-1">
+  <h2 id="_section_level_1">
+    Section Level 1
+  </h2>
+  <section class="doc-section level-2">
+    <h3 id="_section_level_2">
+      Section Level 2
+    </h3>
+    <section class="doc-section level-3">
+      <h4 id="_section_level_3">
+        Section Level 3
+      </h4>
+      <section class="doc-section level-4">
+        <h5 id="_section_level_4">
+          Section Level 4
+        </h5>
+        <section class="doc-section level-5">
+          <h6 id="_section_level_5">
+            Section Level 5
+          </h6>
+        </section>
+      </section>
+    </section>
+  </section>
+  <section class="doc-section level-2">
+    <h3 id="_section_level_2_2">
+      Section Level 2
+    </h3>
+  </section>
+</section>
+`;
+
+exports[`asciidoc/section.adoc > numbered 1`] = `
+<section class="doc-section level-1">
+  <h2 id="_introduction_to_asciidoctor">
+    1. Introduction to Asciidoctor
+  </h2>
+</section>
+<section class="doc-section level-1">
+  <h2 id="_quick_starts">
+    2. Quick Starts
+  </h2>
+  <section class="doc-section level-2">
+    <h3 id="_usage">
+      2.1. Usage
+    </h3>
+    <section class="doc-section level-3">
+      <h4 id="_using_the_command_line_interface">
+        2.1.1. Using the Command Line Interface
+      </h4>
+      <section class="doc-section level-4">
+        <h5 id="_processing_your_content">
+          Processing Your Content
+        </h5>
+      </section>
+    </section>
+  </section>
+  <section class="doc-section level-2">
+    <h3 id="_syntax">
+      2.2. Syntax
+    </h3>
+  </section>
+</section>
+<section class="doc-section level-1">
+  <h2 id="_terms_and_concepts">
+    3. Terms and Concepts
+  </h2>
+</section>
+`;
+
+exports[`asciidoc/section.adoc > numbered-sectnumlevels-1 1`] = `
+<section class="doc-section level-1">
+  <h2 id="_introduction_to_asciidoctor">
+    1. Introduction to Asciidoctor
+  </h2>
+</section>
+<section class="doc-section level-1">
+  <h2 id="_quick_starts">
+    2. Quick Starts
+  </h2>
+  <section class="doc-section level-2">
+    <h3 id="_usage">
+      Usage
+    </h3>
+    <section class="doc-section level-3">
+      <h4 id="_using_the_command_line_interface">
+        Using the Command Line Interface
+      </h4>
+    </section>
+  </section>
+  <section class="doc-section level-2">
+    <h3 id="_syntax">
+      Syntax
+    </h3>
+  </section>
+</section>
+<section class="doc-section level-1">
+  <h2 id="_terms_and_concepts">
+    3. Terms and Concepts
+  </h2>
+</section>
+`;
+
+exports[`asciidoc/section.adoc > sectanchors 1`] = `
+<section class="doc-section level-1">
+  <h2 id="_title_with_anchor">
+    <a class="anchor"
+       href="#_title_with_anchor"
+       aria-hidden="true"
+    >
+    </a>
+    Title
+    with anchor
+  </h2>
+</section>
+`;
+
+exports[`asciidoc/section.adoc > sectanchors-and-sectlinks 1`] = `
+<section class="doc-section level-1">
+  <h2 id="_linked_title_with_anchor">
+    <a class="anchor"
+       href="#_linked_title_with_anchor"
+       aria-hidden="true"
+    >
+    </a>
+    <a class="link"
+       href="#_linked_title_with_anchor"
+    >
+      Linked title with anchor
+    </a>
+  </h2>
+</section>
+`;
+
+exports[`asciidoc/section.adoc > sectlinks 1`] = `
+<section class="doc-section level-1">
+  <h2 id="_linked_title">
+    <a class="link"
+       href="#_linked_title"
+    >
+      Linked title
+    </a>
+  </h2>
+</section>
+`;
+
+exports[`asciidoc/section.adoc > with-custom-id 1`] = `
+<section class="doc-section level-1">
+  <h2 id="foo">
+    Section Title
+  </h2>
+</section>
+`;
+
+exports[`asciidoc/section.adoc > with-roles 1`] = `
+<section class="doc-section level-1 center red">
+  <h2 id="_section_title">
+    Section Title
+  </h2>
+</section>
+`;
+
+exports[`asciidoc/sidebar.adoc > basic 1`] = `
+<aside class="sidebar">
+  <p>
+    AsciiDoc was first released in Nov 2002 by Stuart Rackham. It was designed
+    from the start to be a shorthand syntax for producing professional documents
+    like DocBook and LaTeX.
+  </p>
+</aside>
+`;
+
+exports[`asciidoc/sidebar.adoc > with-id-and-role 1`] = `
+<aside class="sidebar center"
+       id="origin"
+>
+  <p>
+    AsciiDoc was first released in Nov 2002 by Stuart Rackham. It was designed
+    from the start to be a shorthand syntax for producing professional documents
+    like DocBook and LaTeX.
+  </p>
+</aside>
+`;
+
+exports[`asciidoc/sidebar.adoc > with-title 1`] = `
+<aside class="sidebar">
+  <h6 class="block-title">
+    AsciiDoc history
+  </h6>
+  <p>
+    AsciiDoc was first released in Nov 2002 by Stuart Rackham. It was designed
+    from the start to be a shorthand syntax for producing professional documents
+    like DocBook and LaTeX.
+  </p>
+</aside>
+`;
+
+exports[`asciidoc/stem.adoc > asciimath 1`] = `
+<div class="stem-block">
+  <div class="math"
+       data-lang="asciimath"
+  >
+    \\$sqrt(4) = 2\\$
+  </div>
+</div>
+`;
+
+exports[`asciidoc/stem.adoc > latexmath 1`] = `
+<div class="stem-block">
+  <div class="math"
+       data-lang="tex"
+  >
+    \\[C = \\alpha + \\beta Y^{\\gamma} + \\epsilon\\]
+  </div>
+</div>
+`;
+
+exports[`asciidoc/stem.adoc > with-id-and-role 1`] = `
+<div id="sqrt"
+     class="stem-block right"
+>
+  <div class="math"
+       data-lang="asciimath"
+  >
+    \\$sqrt(4) = 2\\$
+  </div>
+</div>
+`;
+
+exports[`asciidoc/stem.adoc > with-title 1`] = `
+<figure class="stem-block">
+  <figcaption>
+    Equation
+  </figcaption>
+  <div class="math"
+       data-lang="asciimath"
+  >
+    \\$sqrt(4) = 2\\$
+  </div>
+</figure>
+`;
+
+exports[`asciidoc/table.adoc > aligns-per-cell 1`] = `
+<div class="table-block">
+  <table class="frame-all grid-all"
+         style="with: 100%"
+  >
+    <colgroup>
+      <col style="width: 33.3333%">
+      <col style="width: 33.3333%">
+      <col style="width: 33.3334%">
+    </colgroup>
+    <tbody>
+      <tr>
+        <td class="halign-center valign-top">
+          Prefix the {vbar} with {caret} to center content horizontally
+        </td>
+        <td class="halign-left valign-top">
+          Prefix the {vbar} with &lt; to align the content to the left
+          horizontally
+        </td>
+        <td class="halign-right valign-top">
+          Prefix the {vbar} with &gt; to align the content to the right
+          horizontally
+        </td>
+      </tr>
+      <tr>
+        <td class="halign-left valign-middle">
+          Prefix the {vbar} with a . and {caret} to center the content in the
+          cell vertically
+        </td>
+        <td class="halign-left valign-top">
+          Prefix the {vbar} with a . and &lt; to align the content to the top of
+          the cell
+        </td>
+        <td class="halign-left valign-bottom">
+          Prefix the {vbar} with a . and &gt; to align the content to the bottom
+          of the cell
+        </td>
+      </tr>
+      <tr>
+        <td class="halign-center valign-middle"
+            colspan="3"
+        >
+          This content spans three columns (3{plus}) and is centered
+          horizontally ({caret}) and vertically (.{caret}) within the cell.
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`asciidoc/table.adoc > basic 1`] = `
+<div class="table-block">
+  <table class="frame-all grid-all"
+         style="with: 100%"
+  >
+    <colgroup>
+      <col style="width: 50%">
+      <col style="width: 50%">
+    </colgroup>
+    <tbody>
+      <tr>
+        <td class="halign-left valign-top">
+          Cell in column 1, row 1
+        </td>
+        <td class="halign-left valign-top">
+          Cell in column 2, row 1
+        </td>
+      </tr>
+      <tr>
+        <td class="halign-left valign-top">
+          Cell in column 1, row 2
+        </td>
+        <td class="halign-left valign-top">
+          Cell in column 2, row 2
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`asciidoc/table.adoc > cell-with-paragraphs 1`] = `
+<div class="table-block">
+  <table class="frame-all grid-all"
+         style="with: 100%"
+  >
+    <colgroup>
+      <col style="width: 100%">
+    </colgroup>
+    <tbody>
+      <tr>
+        <td class="halign-left valign-top">
+          Single paragraph on row 1
+        </td>
+      </tr>
+      <tr>
+        <td class="halign-left valign-top">
+          <p>
+            First paragraph on row 2
+          </p>
+          ,
+          <p>
+            Second paragraph on row 2
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`asciidoc/table.adoc > colspan 1`] = `
+<div class="table-block">
+  <table class="frame-all grid-all"
+         style="with: 100%"
+  >
+    <colgroup>
+      <col style="width: 33.3333%">
+      <col style="width: 33.3333%">
+      <col style="width: 33.3334%">
+    </colgroup>
+    <tbody>
+      <tr>
+        <td class="halign-left valign-top">
+          Cell in column 1, row 1
+        </td>
+        <td class="halign-left valign-top">
+          Cell in column 2, row 1
+        </td>
+        <td class="halign-left valign-top">
+          Cell in column 3, row 1
+        </td>
+      </tr>
+      <tr>
+        <td class="halign-left valign-top"
+            colspan="2"
+        >
+          Content in a single cell that spans columns 1 and 3
+        </td>
+        <td class="halign-left valign-top">
+          Cell in column 3, row 1
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`asciidoc/table.adoc > insane-cells-formatting 1`] = `
+<div class="table-block">
+  <table class="frame-all grid-all"
+         style="with: 100%"
+  >
+    <colgroup>
+      <col style="width: 50%">
+      <col style="width: 50%">
+    </colgroup>
+    <tbody>
+      <tr>
+        <td class="halign-right valign-top">
+          <p>
+            <code>
+              This content is duplicated across two columns.
+            </code>
+          </p>
+          ,
+          <p>
+            <code>
+              It is aligned right horizontally.
+            </code>
+          </p>
+          ,
+          <p>
+            <code>
+              And it is monospaced.
+            </code>
+          </p>
+        </td>
+        <td class="halign-right valign-top">
+          <p>
+            <code>
+              This content is duplicated across two columns.
+            </code>
+          </p>
+          ,
+          <p>
+            <code>
+              It is aligned right horizontally.
+            </code>
+          </p>
+          ,
+          <p>
+            <code>
+              And it is monospaced.
+            </code>
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td class="halign-center valign-bottom"
+            rowspan="3"
+        >
+          <strong>
+            This cell spans 3 rows. The content is centered horizontally,
+            aligned to the bottom of the cell, and strong.
+          </strong>
+        </td>
+        <td class="halign-left valign-top">
+          <em>
+            This content is emphasized.
+          </em>
+        </td>
+      </tr>
+      <tr>
+        <td class="halign-left valign-middle">
+          <div class="literal">
+            <pre>
+              This content is aligned to the top of the cell and literal.
+            </pre>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td class="halign-left valign-top">
+          <div class="listing-block">
+            <pre class="highlightjs-ext highlight">
+              <code>
+                puts "This is a source block!"
+              </code>
+            </pre>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`asciidoc/table.adoc > rowspan 1`] = `
+<div class="table-block">
+  <table class="frame-all grid-all"
+         style="with: 100%"
+  >
+    <colgroup>
+      <col style="width: 33.3333%">
+      <col style="width: 33.3333%">
+      <col style="width: 33.3334%">
+    </colgroup>
+    <tbody>
+      <tr>
+        <td class="halign-left valign-top">
+          Cell in column 1, row 1
+        </td>
+        <td class="halign-left valign-top">
+          Cell in column 2, row 1
+        </td>
+        <td class="halign-left valign-top">
+          Cell in column 3, row 1
+        </td>
+      </tr>
+      <tr>
+        <td class="halign-left valign-top"
+            rowspan="2"
+        >
+          Content in a single cell that spans rows 2 and 3
+        </td>
+        <td class="halign-left valign-top">
+          Cell in column 2, row 2
+        </td>
+        <td class="halign-left valign-top">
+          Cell in column 3, row 2
+        </td>
+      </tr>
+      <tr>
+        <td class="halign-left valign-top">
+          Cell in column 2, row 3
+        </td>
+        <td class="halign-left valign-top">
+          Cell in column 3, row 3
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`asciidoc/table.adoc > with-autowidth 1`] = `
+<div class="table-block">
+  <table class="frame-all grid-all">
+    <colgroup>
+      <col>
+      <col>
+    </colgroup>
+    <tbody>
+      <tr>
+        <td class="halign-left valign-top">
+          Cell in column 1, row 1
+        </td>
+        <td class="halign-left valign-top">
+          Cell in column 2, row 1
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`asciidoc/table.adoc > with-autowidth-and-width 1`] = `
+<div class="table-block">
+  <table class="frame-all grid-all"
+         style="with: 80"
+  >
+    <colgroup>
+      <col>
+      <col>
+    </colgroup>
+    <tbody>
+      <tr>
+        <td class="halign-left valign-top">
+          Cell in column 1, row 1
+        </td>
+        <td class="halign-left valign-top">
+          Cell in column 2, row 1
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`asciidoc/table.adoc > with-cols-halign 1`] = `
+<div class="table-block">
+  <table class="frame-all grid-all"
+         style="with: 100%"
+  >
+    <colgroup>
+      <col style="width: 33.3333%">
+      <col style="width: 33.3333%">
+      <col style="width: 33.3334%">
+    </colgroup>
+    <tbody>
+      <tr>
+        <td class="halign-left valign-top">
+          Cell in column 1, row 1
+        </td>
+        <td class="halign-center valign-top">
+          Cell in column 2, row 1
+        </td>
+        <td class="halign-right valign-top">
+          Cell in column 3, row 1
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`asciidoc/table.adoc > with-cols-styles 1`] = `
+<div class="table-block">
+  <table class="frame-all grid-all"
+         style="with: 100%"
+  >
+    <colgroup>
+      <col style="width: 16.6666%">
+      <col style="width: 16.6666%">
+      <col style="width: 16.6666%">
+      <col style="width: 16.6666%">
+      <col style="width: 16.6666%">
+      <col style="width: 16.667%">
+    </colgroup>
+    <tbody>
+      <tr>
+        <td class="halign-left valign-top">
+          <div class="image-block">
+            <img src="sunset.jpg"
+                 alt="AsciiDoc content"
+            >
+          </div>
+        </td>
+        <td class="halign-left valign-top">
+          <em>
+            Emphasized text
+          </em>
+        </td>
+        <th class="halign-left valign-top">
+          Styled like a header
+        </th>
+        <td class="halign-left valign-top">
+          <div class="literal">
+            <pre>
+              Literal block
+            </pre>
+          </div>
+        </td>
+        <td class="halign-left valign-top">
+          <code>
+            Monospaced text
+          </code>
+        </td>
+        <td class="halign-left valign-top">
+          <strong>
+            Strong text
+          </strong>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`asciidoc/table.adoc > with-cols-valign 1`] = `
+<div class="table-block">
+  <table class="frame-all grid-all"
+         style="with: 100%"
+  >
+    <colgroup>
+      <col style="width: 33.3333%">
+      <col style="width: 33.3333%">
+      <col style="width: 33.3334%">
+    </colgroup>
+    <tbody>
+      <tr>
+        <td class="halign-left valign-top">
+          Cell in column 1, row 1
+        </td>
+        <td class="halign-left valign-middle">
+          Cell in column 2, row 1
+        </td>
+        <td class="halign-left valign-bottom">
+          Cell in column 3, row 1
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`asciidoc/table.adoc > with-cols-width 1`] = `
+<div class="table-block">
+  <table class="frame-all grid-all"
+         style="with: 100%"
+  >
+    <colgroup>
+      <col style="width: 50%">
+      <col style="width: 20%">
+      <col style="width: 30%">
+    </colgroup>
+    <tbody>
+      <tr>
+        <td class="halign-left valign-top">
+          Cell in column 1, row 1
+        </td>
+        <td class="halign-left valign-top">
+          Cell in column 2, row 1
+        </td>
+        <td class="halign-left valign-top">
+          Cell in column 3, row 1
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`asciidoc/table.adoc > with-float 1`] = `
+<div class="table-block">
+  <table class="frame-all grid-all"
+         style="with: 100%; float: left"
+  >
+    <colgroup>
+      <col style="width: 50%">
+      <col style="width: 50%">
+    </colgroup>
+    <tbody>
+      <tr>
+        <td class="halign-left valign-top">
+          Cell in column 1, row 1
+        </td>
+        <td class="halign-left valign-top">
+          Cell in column 2, row 1
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`asciidoc/table.adoc > with-footer 1`] = `
+<div class="table-block">
+  <table class="frame-all grid-all"
+         style="with: 100%"
+  >
+    <colgroup>
+      <col style="width: 50%">
+      <col style="width: 50%">
+    </colgroup>
+    <tfoot>
+      <tr>
+        <td class="halign-left valign-top">
+          Footer in column 1, row 3
+        </td>
+        <td class="halign-left valign-top">
+          Footer in column 2, row 3
+        </td>
+      </tr>
+    </tfoot>
+    ,
+    <tbody>
+      <tr>
+        <td class="halign-left valign-top">
+          Cell in column 1, row 1
+        </td>
+        <td class="halign-left valign-top">
+          Cell in column 2, row 1
+        </td>
+      </tr>
+      <tr>
+        <td class="halign-left valign-top">
+          Cell in column 1, row 2
+        </td>
+        <td class="halign-left valign-top">
+          Cell in column 2, row 2
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`asciidoc/table.adoc > with-frame-sides 1`] = `
+<div class="table-block">
+  <table class="frame-sides grid-all"
+         style="with: 100%"
+  >
+    <colgroup>
+      <col style="width: 50%">
+      <col style="width: 50%">
+    </colgroup>
+    <tbody>
+      <tr>
+        <td class="halign-left valign-top">
+          Cell in column 1, row 1
+        </td>
+        <td class="halign-left valign-top">
+          Cell in column 2, row 1
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`asciidoc/table.adoc > with-grid-cols 1`] = `
+<div class="table-block">
+  <table class="frame-all grid-cols"
+         style="with: 100%"
+  >
+    <colgroup>
+      <col style="width: 50%">
+      <col style="width: 50%">
+    </colgroup>
+    <tbody>
+      <tr>
+        <td class="halign-left valign-top">
+          Cell in column 1, row 1
+        </td>
+        <td class="halign-left valign-top">
+          Cell in column 2, row 1
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`asciidoc/table.adoc > with-header 1`] = `
+<div class="table-block">
+  <table class="frame-all grid-all"
+         style="with: 100%"
+  >
+    <colgroup>
+      <col style="width: 50%">
+      <col style="width: 50%">
+    </colgroup>
+    <thead>
+      <tr>
+        <th class="halign-left valign-top">
+          Name of Column 1
+        </th>
+        <th class="halign-left valign-top">
+          Name of Column 2
+        </th>
+      </tr>
+    </thead>
+    ,
+    <tbody>
+      <tr>
+        <td class="halign-left valign-top">
+          Cell in column 1, row 1
+        </td>
+        <td class="halign-left valign-top">
+          Cell in column 2, row 1
+        </td>
+      </tr>
+      <tr>
+        <td class="halign-left valign-top">
+          Cell in column 1, row 2
+        </td>
+        <td class="halign-left valign-top">
+          Cell in column 2, row 2
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`asciidoc/table.adoc > with-id-and-role 1`] = `
+<div id="tabular"
+     class="table-block center"
+>
+  <table class="frame-all grid-all"
+         style="with: 100%"
+  >
+    <colgroup>
+      <col style="width: 50%">
+      <col style="width: 50%">
+    </colgroup>
+    <tbody>
+      <tr>
+        <td class="halign-left valign-top">
+          Cell in column 1, row 1
+        </td>
+        <td class="halign-left valign-top">
+          Cell in column 2, row 1
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`asciidoc/table.adoc > with-title 1`] = `
+<figure class="table-block">
+  <table class="frame-all grid-all"
+         style="with: 100%"
+  >
+    <colgroup>
+      <col style="width: 50%">
+      <col style="width: 50%">
+    </colgroup>
+    <tbody>
+      <tr>
+        <td class="halign-left valign-top">
+          Cell in column 1, row 1
+        </td>
+        <td class="halign-left valign-top">
+          Cell in column 2, row 1
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <figcaption>
+    Table 1. Table FTW!
+  </figcaption>
+</figure>
+`;
+
+exports[`asciidoc/table.adoc > with-width 1`] = `
+<div class="table-block">
+  <table class="frame-all grid-all"
+         style="with: 80%"
+  >
+    <colgroup>
+      <col style="width: 50%">
+      <col style="width: 50%">
+    </colgroup>
+    <tbody>
+      <tr>
+        <td class="halign-left valign-top">
+          Cell in column 1, row 1
+        </td>
+        <td class="halign-left valign-top">
+          Cell in column 2, row 1
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`asciidoc/thematic_break.adoc > basic 1`] = `<hr>`;
+
+exports[`asciidoc/toc.adoc > doc-without-sections 1`] = `
+<h1>
+  Document Title
+</h1>
+`;
+
+exports[`asciidoc/toc.adoc > in-preamble 1`] = `
+<h1>
+  Document Title
+</h1>
+<section id="preamble"
+         aria-label="Preamble"
+>
+  <nav id="toc"
+       class="toc"
+       role="doc-toc"
+  >
+    <h2 id="toc-title">
+    </h2>
+    <ol class="toc-list level-1">
+      <li>
+        <a href="#_the_ravages_of_writing">
+          The Ravages of Writing
+        </a>
+        <ol class="toc-list level-2">
+          <li>
+            <a href="#_a_recipe_for_potion">
+              A Recipe for Potion
+            </a>
+          </li>
+        </ol>
+      </li>
+    </ol>
+  </nav>
+</section>
+<section class="doc-section level-1">
+  <h2 id="_the_ravages_of_writing">
+    The Ravages of Writing
+  </h2>
+  <section class="doc-section level-2">
+    <h3 id="_a_recipe_for_potion">
+      A Recipe for Potion
+    </h3>
+  </section>
+</section>
+`;
+
+exports[`asciidoc/toc.adoc > in-section 1`] = `
+<h1>
+  Document Title
+</h1>
+<section class="doc-section level-1">
+  <h2 id="_introduction">
+    Introduction
+  </h2>
+  <nav id="toc"
+       class="toc"
+       role="doc-toc"
+  >
+    <h3 id="toc-title">
+    </h3>
+    <ol class="toc-list level-1">
+      <li>
+        <a href="#_introduction">
+          Introduction
+        </a>
+      </li>
+      <li>
+        <a href="#_the_ravages_of_writing">
+          The Ravages of Writing
+        </a>
+        <ol class="toc-list level-2">
+          <li>
+            <a href="#_a_recipe_for_potion">
+              A Recipe for Potion
+            </a>
+          </li>
+        </ol>
+      </li>
+    </ol>
+  </nav>
+</section>
+<section class="doc-section level-1">
+  <h2 id="_the_ravages_of_writing">
+    The Ravages of Writing
+  </h2>
+  <section class="doc-section level-2">
+    <h3 id="_a_recipe_for_potion">
+      A Recipe for Potion
+    </h3>
+  </section>
+</section>
+`;
+
+exports[`asciidoc/toc.adoc > with-id-and-role 1`] = `
+<h1>
+  Document Title
+</h1>
+<section class="doc-section level-1">
+  <h2 id="_introduction">
+    Introduction
+  </h2>
+  <nav id="mytoc"
+       class="taco toc"
+       role="doc-toc"
+  >
+    <h3 id="mytoc-title">
+    </h3>
+    <ol class="toc-list level-1">
+      <li>
+        <a href="#_introduction">
+          Introduction
+        </a>
+      </li>
+      <li>
+        <a href="#_the_ravages_of_writing">
+          The Ravages of Writing
+        </a>
+      </li>
+    </ol>
+  </nav>
+</section>
+<section class="doc-section level-1">
+  <h2 id="_the_ravages_of_writing">
+    The Ravages of Writing
+  </h2>
+</section>
+`;
+
+exports[`asciidoc/toc.adoc > with-levels 1`] = `
+<h1>
+  Document Title
+</h1>
+<section class="doc-section level-1">
+  <h2 id="_introduction">
+    Introduction
+  </h2>
+  <nav id="toc"
+       class="toc"
+       role="doc-toc"
+  >
+    <h3 id="toc-title">
+    </h3>
+    <ol class="toc-list level-1">
+      <li>
+        <a href="#_introduction">
+          Introduction
+        </a>
+      </li>
+      <li>
+        <a href="#_the_ravages_of_writing">
+          The Ravages of Writing
+        </a>
+      </li>
+    </ol>
+  </nav>
+</section>
+<section class="doc-section level-1">
+  <h2 id="_the_ravages_of_writing">
+    The Ravages of Writing
+  </h2>
+  <section class="doc-section level-2">
+    <h3 id="_a_recipe_for_potion">
+      A Recipe for Potion
+    </h3>
+  </section>
+</section>
+`;
+
+exports[`asciidoc/toc.adoc > with-title 1`] = `
+<h1>
+  Document Title
+</h1>
+<section class="doc-section level-1">
+  <h2 id="_introduction">
+    Introduction
+  </h2>
+  <nav id="toc"
+       class="toc"
+       role="doc-toc"
+  >
+    <h3 id="toc-title">
+      Table of Adventures
+    </h3>
+    <ol class="toc-list level-1">
+      <li>
+        <a href="#_introduction">
+          Introduction
+        </a>
+      </li>
+      <li>
+        <a href="#_the_ravages_of_writing">
+          The Ravages of Writing
+        </a>
+      </li>
+    </ol>
+  </nav>
+</section>
+<section class="doc-section level-1">
+  <h2 id="_the_ravages_of_writing">
+    The Ravages of Writing
+  </h2>
+</section>
+`;
+
+exports[`asciidoc/ulist.adoc > basic 1`] = `
+<div class="ulist">
+  <ul>
+    <li>
+      Edgar Allen Poe
+    </li>
+    <li>
+      Sheri S. Tepper
+    </li>
+    <li>
+      Bill Bryson
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`asciidoc/ulist.adoc > checklist 1`] = `
+<div class="ulist">
+  <ul class="task-list">
+    <li class="task-list-item">
+      <input class="task-list-item-checkbox"
+             type="checkbox"
+             disabled
+             checked
+      >
+      checked
+    </li>
+    <li class="task-list-item">
+      <input class="task-list-item-checkbox"
+             type="checkbox"
+             disabled
+             checked
+      >
+      also checked
+    </li>
+    <li class="task-list-item">
+      <input class="task-list-item-checkbox"
+             type="checkbox"
+             disabled
+      >
+      not
+      checked
+    </li>
+    <li>
+      normal list item
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`asciidoc/ulist.adoc > complex-content 1`] = `
+<div class="ulist">
+  <ul>
+    <li>
+      <p>
+        Every list item has at least one paragraph of content, which may be
+        wrapped, even using a hanging indent.
+      </p>
+      <p>
+        Additional paragraphs or blocks are adjoined by putting a list
+        continuation on a line adjacent to both blocks.
+      </p>
+      <div class="dlist">
+        <dl>
+          <dt>
+            list continuation
+          </dt>
+          <dd>
+            a plus sign (
+            <code>
+              &#43;
+            </code>
+            ) on a line by itself
+          </dd>
+        </dl>
+      </div>
+    </li>
+    <li>
+      <p>
+        A literal paragraph does not require a list continuation.
+      </p>
+      <div class="literal-block">
+        <pre>
+          $ gem install asciidoctor
+        </pre>
+      </div>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`asciidoc/ulist.adoc > max-nesting 1`] = `
+<div class="ulist">
+  <ul>
+    <li>
+      <p>
+        level 1
+      </p>
+      <div class="ulist">
+        <ul>
+          <li>
+            <p>
+              level 2
+            </p>
+            <div class="ulist">
+              <ul>
+                <li>
+                  <p>
+                    level 3
+                  </p>
+                  <div class="ulist">
+                    <ul>
+                      <li>
+                        <p>
+                          level 4
+                        </p>
+                        <div class="ulist">
+                          <ul>
+                            <li>
+                              level 5
+                            </li>
+                          </ul>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </li>
+          <li>
+            level 2
+          </li>
+        </ul>
+      </div>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`asciidoc/ulist.adoc > with-id-and-role 1`] = `
+<div id="authors"
+     class="ulist green"
+>
+  <ul>
+    <li>
+      Edgar Allen Poe
+    </li>
+    <li>
+      Sheri S. Tepper
+    </li>
+    <li>
+      Bill Bryson
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`asciidoc/ulist.adoc > with-title 1`] = `
+<section class="ulist">
+  <h6 class="block-title">
+    Writers
+  </h6>
+  <ul>
+    <li>
+      Edgar Allen Poe
+    </li>
+    <li>
+      Sheri S. Tepper
+    </li>
+    <li>
+      Bill Bryson
+    </li>
+  </ul>
+</section>
+`;
+
+exports[`asciidoc/verse.adoc > basic 1`] = `
+<div class="verse-block">
+  The fog comes on little cat feet.
+</div>
+`;
+
+exports[`asciidoc/verse.adoc > basic-with-attribution 1`] = `
+<div class="verse-block">
+  The fog comes on little cat feet.
+</div>
+`;
+
+exports[`asciidoc/verse.adoc > basic-with-attribution-and-citetitle 1`] = `
+<div class="verse-block">
+  The fog comes on little cat feet.
+</div>
+`;
+
+exports[`asciidoc/verse.adoc > basic-with-id-and-role 1`] = `
+<div id="sandburg"
+     class="verse-block"
+>
+  The fog comes on little cat feet.
+</div>
+`;
+
+exports[`asciidoc/verse.adoc > basic-with-title 1`] = `
+<section class="verse-block">
+  <h6 class="block-title">
+    Poetry
+  </h6>
+  The fog comes on little cat feet.
+</section>
+`;
+
+exports[`asciidoc/verse.adoc > block 1`] = `
+<div class="verse-block">
+  The fog comes on little cat feet. It sits looking over harbor and city on
+  silent haunches and then moves on.
+</div>
+`;
+
+exports[`asciidoc/video.adoc > basic 1`] = `
+<div class="video-block">
+  <video src="video_file.mp4"
+         controls
+  >
+    Your browser does not support the video tag.
+  </video>
+</div>
+`;
+
+exports[`asciidoc/video.adoc > with-dimensions 1`] = `
+<div class="video-block">
+  <video src="video_file.mp4"
+         width="640"
+         height="480"
+         controls
+  >
+    Your browser does not support the video tag.
+  </video>
+</div>
+`;
+
+exports[`asciidoc/video.adoc > with-end 1`] = `
+<div class="video-block">
+  <video src="video_file.mp4#t=60"
+         controls
+  >
+    Your browser does not support the video tag.
+  </video>
+</div>
+`;
+
+exports[`asciidoc/video.adoc > with-id-and-role 1`] = `
+<div id="lindsey"
+     class="video-block watch"
+>
+  <video src="video_file.mp4"
+         controls
+  >
+    Your browser does not support the video tag.
+  </video>
+</div>
+`;
+
+exports[`asciidoc/video.adoc > with-options 1`] = `
+<div class="video-block">
+  <video src="video_file.mp4"
+         autoplay
+         loop
+  >
+    Your browser does not support the video tag.
+  </video>
+</div>
+`;
+
+exports[`asciidoc/video.adoc > with-poster 1`] = `
+<div class="video-block">
+  <video src="video_file.mp4"
+         poster="sunset.jpg"
+         controls
+  >
+    Your browser does not support the video tag.
+  </video>
+</div>
+`;
+
+exports[`asciidoc/video.adoc > with-start 1`] = `
+<div class="video-block">
+  <video src="video_file.mp4#t=10"
+         controls
+  >
+    Your browser does not support the video tag.
+  </video>
+</div>
+`;
+
+exports[`asciidoc/video.adoc > with-title 1`] = `
+<figure class="video-block">
+  <video src="video_file.mp4"
+         controls
+  >
+    Your browser does not support the video tag.
+  </video>
+  <figcaption>
+    Must watch!
+  </figcaption>
+</figure>
+`;

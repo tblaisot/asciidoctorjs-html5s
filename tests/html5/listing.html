@@ -1,0 +1,82 @@
+<!-- .basic -->
+<div class="listing-block">
+  <pre>echo -n "Please enter your name: "
+read name
+echo "Hello, $name!"</pre>
+</div>
+
+<!-- .basic-with-title -->
+<figure class="listing-block">
+  <figcaption>Reading user input</figcaption>
+  <pre>echo -n "Please enter your name: "
+read name
+echo "Hello, $name!"</pre>
+</figure>
+
+<!-- .basic-nowrap -->
+<div class="listing-block">
+  <pre class="nowrap">ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"</pre>
+</div>
+
+<!-- .basic-with-id-and-role -->
+<div class="listing-block example" id="code">
+  <pre>echo -n "Please enter your name: "
+read name
+echo "Hello, $name!"</pre>
+</div>
+
+<!-- .source -->
+<div class="listing-block">
+  <pre class="highlight"><code>5.times do
+  print "Odelay!"
+end</code></pre>
+</div>
+
+<!-- .source-with-title -->
+<figure class="listing-block">
+  <figcaption>Odelay!</figcaption>
+  <pre class="highlight"><code>5.times do
+  print "Odelay!"
+end</code></pre>
+</figure>
+
+<!-- .source-with-language -->
+<div class="listing-block">
+  <pre class="highlight">
+    <code class="language-ruby" data-lang="ruby">5.times do
+  print "Odelay!"
+end</code>
+  </pre>
+</div>
+
+<!-- .source-nowrap -->
+<div class="listing-block">
+  <pre class="highlight nowrap">
+    <code class="language-java" data-lang="java">public class ApplicationConfigurationProvider extends HttpConfigurationProvider {
+
+   public Configuration getConfiguration(ServletContext context) {
+      return ConfigurationBuilder.begin()
+               .addRule()
+               .when(Direction.isInbound().and(Path.matches("/{path}")))
+               .perform(Log.message(Level.INFO, "Client requested path: {path}"))
+               .where("path").matches(".*");
+   }
+}</code>
+  </pre>
+</div>
+
+<!-- .source-highlighter-highlightjs -->
+<div class="listing-block">
+  <pre class="highlightjs highlight">
+    <code class="language-ruby hljs" data-lang="ruby">5.times do
+  print "Odelay!"
+end</code>
+  </pre>
+</div>
+
+<!-- .source-highlighter-html-pipeline -->
+<div class="listing-block">
+  <pre><code data-lang="ruby">5.times do
+  print "Odelay!"
+end</code></pre>
+</div>
